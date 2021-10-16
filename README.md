@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @byme92g
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning new stuff as always
-- 💞️ I’m looking to collaborate on any interesting project with PHP, C# or Java | Kotlin
+- 💞️ I’m looking to collaborate on any interesting project with PHP, C#, Java or Kotlin
 - 📫 How to reach me byme92g@gmail.com
 
 <!---
