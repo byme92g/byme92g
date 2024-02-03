@@ -62,11 +62,13 @@
 
 ### FrameWorks and Libraries
 
-<div align="center">  
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50"/> </a>
-</div>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" />
 
-<td valign="top">
+### CMS
+
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="Wordpress" height="50" />
+<img src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80&format=webp" alt="Umbraco CMS" height="50" />
 
 ### DevOps and other Tools
 
