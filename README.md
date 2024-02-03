@@ -21,19 +21,22 @@
 
 ### design made from a dev perspective (not to merely design)
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50"/> </a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50"/> </a>
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50"/> </a>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50" />
 
-### Frontend Libraries
+### Tools
 
+<img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" height="50" />
 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50"/> </a>  
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50"/>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="50"/>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50"/> </a>
+### Frontend Libraries & Frameworks
+
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" />
+
 
 </td>
 <td valign="top" width="50%">
@@ -66,6 +69,9 @@
 <td valign="top">
 
 ### DevOps and other Tools
+
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" />
+<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" />
 
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50"/> </a>
