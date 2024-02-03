@@ -1,4 +1,4 @@
-![image](https://github.com/byme92g/byme92g/assets/20480760/c90e2af7-babe-4982-bbca-36f5938ceef7)- 👋 Hi, I’m @byme92g
+👋 Hi, I’m @byme92g
 - 👀 I’m interested in software development.
 - 🌱 I’m always trying to learn something new.
 - 💞️ I’m looking to collaborate on any interesting project with PHP, C#, Java or Kotlin.
