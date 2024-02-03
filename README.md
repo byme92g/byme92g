@@ -1,4 +1,4 @@
-👋 Hi, I'm Jeremy! 🇵🇪
+👋 Hi, I'm Jeremy! 🇵🇪 - 🇨🇦
 - 👀 I’m interested in software development.
 - 🌱 I’m always trying to learn something new.
 - 💞️ I’m looking to collaborate on any interesting project with PHP, C#, Java or Kotlin.
