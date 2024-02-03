@@ -1,4 +1,4 @@
-👋 Hi, I'm Jeremy! 🇵🇪 - 🇨🇦
+👋 Hi, I'm Jeremy! 🇵🇪 | 🇨🇦
 - 👀 I’m interested in software development.
 - 🌱 I’m always trying to learn something new.
 - 💞️ I’m looking to collaborate on any interesting project with PHP, C#, Java or Kotlin.
@@ -25,6 +25,16 @@
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://worldvectorlogo.com/logo/adobe-xd-1.svg" alt="Adobe XD" height="50"/> </a>
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://worldvectorlogo.com/logo/invision.svg" alt="InVision" height="50"/> </a>
 
+### Frontend Libraries
+
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50"/> </a>  
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50"/>
+<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="50"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/> </a> 
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50"/> </a>
+
 </td>
 <td valign="top" width="50%">
 
@@ -48,14 +58,6 @@
 ### FrameWorks and Libraries
 
 <div align="center">  
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50"/> </a>  
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> </a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="NuxtJS" height="50"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="50"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50"/>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="50"/>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50"/> </a>
 </div>
 
