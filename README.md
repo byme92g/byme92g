@@ -21,7 +21,7 @@
 
 ### design made from a dev perspective (not to merely design)
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" height="50"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px; background: white;" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" height="50"/> </a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50"/> </a>
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50"/> </a>
 
