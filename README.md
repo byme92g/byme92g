@@ -95,12 +95,12 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/igor-ponso" target="_blank">
-<img style="margin: 10px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<a href="https://github.com/byme92g" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
-<a href="https://linkedin.com/in/igorponso" target="_blank">
-<img style="margin: 10px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/jeremy-pando/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href = "mailto:igorponso07@gmail.com"><img style="margin: 10px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:byme92gca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br/>
