@@ -12,12 +12,12 @@
 ### Frontend
 
 <div align="center">  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/> </a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px"style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html5" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" />
 
 ### design made from a dev perspective (not to merely design)
 
@@ -42,11 +42,13 @@
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50"/> </a>
-<a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" />
 
 </div>
 
