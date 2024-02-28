@@ -11,9 +11,10 @@
 
 <td valign="top" width="50%">
 
+<div align="center">  
+
 ### Frontend
 
-<div align="center">  
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html5" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" />
@@ -55,8 +56,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" />
 
-</div>
-
 ### Frameworks and Libraries
 
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" />
@@ -71,8 +70,6 @@
 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" />
 <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" />
-
-<div align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
@@ -81,6 +78,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" />
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" />
+
 </div>
 
 </td>
@@ -93,13 +91,16 @@
 ## How to reach me
 
 <br/>
+
 <div align="center">
 <a href="https://github.com/byme92g" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 <a href="https://www.linkedin.com/in/jeremy-pando/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href = "mailto:byme92gca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:byme92gca@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 </div>
 <br/>
