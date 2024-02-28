@@ -1,13 +1,15 @@
 👋 Hi, I'm Jeremy! 🇵🇪 | 🇨🇦
 - 👀 I’m interested in software development.
 - 🌱 I’m always trying to learn something new.
-- 💞️ I’m looking to collaborate on any interesting project with PHP, C#, Java or Kotlin.
+- 💞️ I’m looking to collaborate on any interesting project in any programming language, but my background is in web and mobile development.
 - 📫 How to reach me byme92g@gmail.com or byme92gca@gmail.com
 
 ## My Skill Set
 
 <table>
-<tr><td valign="top" width="50%">
+<tr>
+
+<td valign="top" width="50%">
 
 ### Frontend
 
@@ -19,13 +21,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" />
 
-### design made from a dev perspective (not to merely design)
+### Design Tools (used as dev)
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50" />
 
-### Tools
+### Web Build Tools
 
 <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" height="50" />
@@ -37,8 +39,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" />
 
-
 </td>
+
 <td valign="top" width="50%">
 
 ### Backend
@@ -55,17 +57,12 @@
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### FrameWorks and Libraries
+### Frameworks and Libraries
 
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" />
 
-### CMS
+### Content Manager
 
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="Wordpress" height="50" />
 <img src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80&format=webp" alt="Umbraco CMS" height="50" />
@@ -76,17 +73,19 @@
 <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" />
 
 <div align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> </a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" />
 </div>
 
-</td></tr>
+</td>
+
+</tr>
 </table>
 
 <br/>
