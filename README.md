@@ -24,6 +24,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" />
 
+### Frontend Libraries & Frameworks
+
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" />
+
 ### Design Tools (used as dev)
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />
@@ -35,20 +42,13 @@
 <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" height="50" />
 
-### Frontend Libraries & Frameworks
-
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" />
-
 </td>
 
 <td valign="top" width="50%">
 
-### Backend
-
 <div align="center">
+
+### Backend
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50"/>
