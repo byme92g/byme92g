@@ -21,11 +21,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" title="Css3" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" title="JavaScript" />
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" title="TypeScript" />
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" title="jQuery" />
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" title="Sass" />
 
 ### Libraries & Frameworks
 
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" title="jQuery" />
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" title="Sass" />
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" title="VueJS" />
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" title="Bootstrap" />
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" title="Tailwind CSS" />
@@ -52,13 +52,13 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" title="TypeScript" />
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" height="50" title="PHP" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50" title="NodeJS" />
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java" />
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" title="Kotlin" />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" title="C#" />
 
 ### Libraries & Frameworks
 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50" title="NodeJS" />
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" title="Laravel" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" title="NetCore" />
 
