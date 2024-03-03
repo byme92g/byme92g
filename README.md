@@ -21,7 +21,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" />
 
 ### Design Tools (used as dev)
