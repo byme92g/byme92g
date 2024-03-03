@@ -30,6 +30,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" title="Bootstrap" />
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" title="Tailwind CSS" />
 <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" title="Svelte" />
+<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
 
 ### Design Tools (used as dev)
 
@@ -61,7 +62,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50" title="NodeJS" />
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" title="Laravel" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" title="NetCore" />
-<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
 
 ### Content Manager
 
