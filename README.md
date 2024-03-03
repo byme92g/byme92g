@@ -1,7 +1,9 @@
 👋 Hi, I'm Jeremy! 🇵🇪 | 🇨🇦
-- 👀 I’m interested in software development.
-- 🌱 I’m always trying to learn something new.
-- 💞️ I’m looking to collaborate on any interesting project in any programming language, but my background is in web and mobile development.
+
+- I’m interested in software development.
+- I’m always learning something new.
+- I’m looking to collaborate on any interesting project in any programming language.
+
 - 📫 How to reach me byme92gca@gmail.com
 
 ## My Skill Set
