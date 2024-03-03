@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m always trying to learn something new.
 - 💞️ I’m looking to collaborate on any interesting project in any programming language, but my background is in web and mobile development.
-- 📫 How to reach me byme92g@gmail.com or byme92gca@gmail.com
+- 📫 How to reach me byme92gca@gmail.com
 
 ## My Skill Set
 
