@@ -61,6 +61,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50" title="NodeJS" />
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" title="Laravel" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" title="NetCore" />
+<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
 
 ### Content Manager
 
@@ -70,7 +71,7 @@
 ### Other Tools
 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" title="ChartJS" />
-<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
+
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" title="Git" />
 <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" title="GitLab" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" title="AWS" />
