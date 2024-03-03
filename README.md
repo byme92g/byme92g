@@ -76,7 +76,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" title="AWS" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" title="Docker" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" title="MySQL" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="Microsoft Sql Server" title="MS SQL Server">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="Microsoft Sql Server" height="50" title="MS SQL Server">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" title="Linux" />
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" title="Postman" />
 
