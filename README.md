@@ -24,7 +24,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" />
 
-### Frontend Libraries & Frameworks
+### Libraries & Frameworks
 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" />
@@ -58,7 +58,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" />
 
-### Frameworks and Libraries
+### Libraries & Frameworks
 
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" />
