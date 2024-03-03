@@ -17,7 +17,7 @@
 
 ### Frontend
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html5" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html5" height="50" title="Html5" />
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" />
