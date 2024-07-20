@@ -4,7 +4,7 @@
 - I’m always learning something new.
 - TryHackMe try harder.
 
-- 📫 How to reach me byme92gca@gmail.com
+- 📫 How to reach me byme92gca@gmail.com | byme92g@gmail.com
 
 ## My Skill Set
 
