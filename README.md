@@ -1,8 +1,8 @@
 👋 Hi, I'm Jeremy! 🇵🇪 | 🇨🇦
 
-- I’m interested in software development.
+- I’m interested in software development and cybersecurity.
 - I’m always learning something new.
-- I’m looking to collaborate on any interesting project in any programming language.
+- TryHackMe try harder.
 
 - 📫 How to reach me byme92gca@gmail.com
 
