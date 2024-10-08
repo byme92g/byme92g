@@ -52,7 +52,7 @@
 ### Backend
 
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" title="TypeScript" />
-<img src="https://es.wikipedia.org/wiki/PHP#/media/Archivo:PHP-logo.svg" alt="PHP" height="50" title="PHP" />
+<img src="https://www.php.net/images/logos/new-php-logo.png" alt="PHP" height="50" title="PHP" />
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java" />
 <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" title="Kotlin" />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" title="C#" />
