@@ -1,10 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeremy%20Pando&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58" width="100%" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=byme92g&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+<br/>
+
 👋 Hi, I'm Jeremy! 🇵🇪
 
-- I’m interested in software development.
-- I’m always learning something new.
+- I'm interested in software development.
+- I'm always learning something new.
 - TryHackMe try harder.
+- 🔭 Currently building full-stack web applications and exploring cybersecurity.
+- 🌱 Always expanding my knowledge across frontend, backend, and cloud technologies.
 
 - 📫 How to reach me byme92g@gmail.com
+
+<br/>
 
 ## My Skill Set
 
@@ -13,7 +25,7 @@
 
 <td valign="top" width="50%">
 
-<div align="center">  
+<div align="center">
 
 ### Frontend
 
@@ -35,13 +47,15 @@
 ### Design Tools (used as dev)
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" title="Figma" />
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" title="Adobe" />
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" title="Adobe XD" />
 <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50" title="InVision" />
 
 ### Web Build Tools
 
 <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" height="50" title="Webpack" />
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" height="50" title="ViteJS" />
+
+</div>
 
 </td>
 
@@ -71,7 +85,6 @@
 ### Other Tools
 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" title="ChartJS" />
-
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" title="Git" />
 <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" title="GitLab" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" title="AWS" />
@@ -87,6 +100,19 @@
 
 </tr>
 </table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byme92g&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byme92g&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=byme92g&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br/>
 
@@ -106,3 +132,5 @@
 </a>
 </div>
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
