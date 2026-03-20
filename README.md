@@ -1,26 +1,6 @@
 # 👋 Hi, I'm Jeremy Pando 🇵🇪
 
-> Software engineer from Peru — building web apps, exploring AI, and hacking things the ethical way.
-
 **Software Engineer · IA Engineer · Cybersecurity**
-
-📫 byme92g@gmail.com
-
----
-
-## Tech Stack
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-
-Also experienced with PHP · Java · Kotlin · C# · Svelte · Tailwind CSS · Bootstrap · MySQL · MSSQL · Linux · Git · Figma · Webpack · Vite · Postman · WordPress · Umbraco
-
----
 
 ## GitHub Stats
 
@@ -28,8 +8,6 @@ Also experienced with PHP · Java · Kotlin · C# · Svelte · Tailwind CSS · B
   <img src="https://github-readme-stats.vercel.app/api?username=byme92g&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byme92g&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
-
----
 
 ## Connect
 
