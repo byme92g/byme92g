@@ -1,22 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeremy%20Pando&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58" width="100%" />
+# 👋 Hi, I'm Jeremy Pando 🇵🇪
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=byme92g&style=flat-square&color=blue" alt="Profile views" />
-</div>
+> Full-stack engineer from Peru — building web apps, exploring AI, and hacking things the ethical way.
 
-<br/>
+**Software Engineer · IA Engineer · Cybersecurity**
 
-👋 Hi, I'm Jeremy! 🇵🇪
+📫 byme92g@gmail.com
 
-- I'm interested in software development.
-- I'm always learning something new.
-- TryHackMe try harder.
-- 🔭 Currently building full-stack web applications and exploring cybersecurity.
-- 🌱 Always expanding my knowledge across frontend, backend, and cloud technologies.
-
-- 📫 How to reach me byme92g@gmail.com
-
-<br/>
+---
 
 ## My Skill Set
 
@@ -44,7 +34,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" title="Svelte" />
 <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
 
-### Design Tools (used as dev)
+### Design Tools
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" title="Figma" />
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" title="Adobe XD" />
@@ -101,7 +91,7 @@
 </tr>
 </table>
 
-<br/>
+---
 
 ## GitHub Stats
 
@@ -110,15 +100,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byme92g&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=byme92g&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+---
 
-<br/>
-
-## How to reach me
-
-<br/>
+## Connect
 
 <div align="center">
 <a href="https://github.com/byme92g" target="_blank">
@@ -131,6 +115,3 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
