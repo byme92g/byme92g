@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremy Pando 🇵🇪
 
-> Full-stack engineer from Peru — building web apps, exploring AI, and hacking things the ethical way.
+> Software engineer from Peru — building web apps, exploring AI, and hacking things the ethical way.
 
 **Software Engineer · IA Engineer · Cybersecurity**
 
@@ -8,88 +8,52 @@
 
 ---
 
-## My Skill Set
+## Tech Stack
 
-<table>
-<tr>
+**Languages**
 
-<td valign="top" width="50%">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-<div align="center">
+**Frontend**
 
-### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Html5" height="50" title="Html5" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css3" height="50" title="Css3" />
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="50" title="JavaScript" />
-<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" title="TypeScript" />
+**Backend**
 
-### Libraries & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat-square&logo=umbraco&logoColor=white)
 
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="Jquery" height="50" title="jQuery" />
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="50" title="Sass" />
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJS" height="50" title="VueJS" />
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap5" height="50" title="Bootstrap" />
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50" title="Tailwind CSS" />
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="50" title="Svelte" />
-<img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50" title="Vuetify" />
+**Databases**
 
-### Design Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" title="Figma" />
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="50" title="Adobe XD" />
-<img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" height="50" title="InVision" />
+**DevOps & Tools**
 
-### Web Build Tools
-
-<img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" height="50" title="Webpack" />
-<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite" height="50" title="ViteJS" />
-
-</div>
-
-</td>
-
-<td valign="top" width="50%">
-
-<div align="center">
-
-### Backend
-
-<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" height="50" title="TypeScript" />
-<img src="https://www.php.net/images/logos/new-php-logo.png" alt="PHP" height="50" title="PHP" />
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java" />
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" height="50" title="Kotlin" />
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="50" title="C#" />
-
-### Libraries & Frameworks
-
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJS" height="50" title="NodeJS" />
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" title="Laravel" />
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Net core" height="50" title="NetCore" />
-
-### Content Manager
-
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="Wordpress" height="50" />
-<img src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80&format=webp" alt="Umbraco CMS" height="50" />
-
-### Other Tools
-
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" title="ChartJS" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" title="Git" />
-<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" title="GitLab" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" title="AWS" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50" title="Docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" title="MySQL" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="Microsoft Sql Server" height="50" title="MS SQL Server">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" title="Linux" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" title="Postman" />
-
-</div>
-
-</td>
-
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
